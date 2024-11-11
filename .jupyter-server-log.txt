@@ -52,3 +52,10 @@ Launching jupyter-lab
 [I 2024-11-11 14:36:05.052 ServerApp] Connecting to kernel 30ecfec2-c36a-4eb2-ba06-bfce2f635960.
 [I 2024-11-11 14:38:03.344 ServerApp] Saving file at /Untitled.ipynb
 [I 2024-11-11 14:38:34.457 ServerApp] New terminal with automatic name: 1
+[I 2024-11-11 14:42:30.015 ServerApp] 302 GET /user/dorival42-jupyter_project-zry231bd/ (@10.2.1.15) 1.04ms
+[W 2024-11-11 14:48:03.557 ServerApp] Culling 'idle' kernel 'python3' (30ecfec2-c36a-4eb2-ba06-bfce2f635960) with 1 connections due to 633 seconds of inactivity.
+[I 2024-11-11 14:48:03.559 ServerApp] Kernel shutdown: 30ecfec2-c36a-4eb2-ba06-bfce2f635960
+[I 2024-11-11 14:53:09.360 ServerApp] 302 GET /user/dorival42-jupyter_project-zry231bd/ (@10.2.1.15) 0.87ms
+[W 2024-11-11 14:53:34.704 TerminalsExtensionApp] WebSocket ping timeout after 119946 ms.
+[I 2024-11-11 15:02:54.938 ServerApp] Uploading file to /fraud_data.csv
+[I 2024-11-11 15:03:03.034 ServerApp] Saving file at /fraud_data.csv
