@@ -1,0 +1,13 @@
+{
+  "base_url": "/user/dorival42-jupyter_project-9o81xiuv/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 15,
+  "port": 8888,
+  "root_dir": "/home/jovyan",
+  "secure": false,
+  "sock": "",
+  "token": "zXy6dFvcTfGkR15VJN88hw",
+  "url": "http://jupyter-dorival42-2djupyter-5fproject-2d9o81xiuv:8888/user/dorival42-jupyter_project-9o81xiuv/",
+  "version": "2.14.2"
+}
